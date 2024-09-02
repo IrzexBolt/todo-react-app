@@ -35,7 +35,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Dependenices
 
-### `npm i uuid `
+### `npm i uuid ` <br/>
 
 ### `npm i --save @fortawesome/fontawesome-svg-core`
 
