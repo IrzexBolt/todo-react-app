@@ -35,11 +35,15 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Dependenices
 
-`npm i uuid `
-`npm i --save @fortawesome/fontawesome-svg-core`
-`npm i --save @fortawesome/free-solid-svg-icons`
-`npm i --save @fortawesome/free-regular-svg-icons`
-`npm i --save @fortawesome/free-brands-svg-icons`
+### `npm i uuid `
+
+### `npm i --save @fortawesome/fontawesome-svg-core`
+
+### `npm i --save @fortawesome/free-solid-svg-icons`
+
+### `npm i --save @fortawesome/free-regular-svg-icons`
+
+### `npm i --save @fortawesome/free-brands-svg-icons`
 
 # React Component
 
